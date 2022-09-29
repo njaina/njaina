@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">
   <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
 </h1>
-
-## Hey! 👋
 I'm 'Njaina, a 20 years old web developer from Madagascar.
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
