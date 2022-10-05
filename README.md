@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-![hollow knight]<img src="https://user-images.githubusercontent.com/98956159/193202853-04af6de6-da62-49bf-a8d9-dd76cbd971eb.jpg">
+<!--<img src="https://user-images.githubusercontent.com/98956159/193202853-04af6de6-da62-49bf-a8d9-dd76cbd971eb.jpg">-->
+<img src="https://github.com/njaina/njaina/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+
 
 
   <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
 </h1>
+I'm developper
+<div align="center">
+<img src="https://github.com/njaina/njaina/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
 I'm 'Njaina, a 20 years old web developer from Madagascar.
 
 - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
