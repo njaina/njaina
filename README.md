@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋, I'm 'Njaina Sandratra </h3>
 
 <!--
 **njaina/njaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,30 +22,34 @@ Here are some ideas to get you started:
 
   <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
 </h1>
-I'm developper
+<h3 align="center" >I'm a junior developper</h3>
 <div align="center">
 <img src="https://github.com/njaina/njaina/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
-I'm 'Njaina, a 20 years old web developer from Madagascar.
 
-## Skills
+
+<!---## Skills
 - 👨‍💻 TypeScript, JavaScript, Java
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 PostgreSQL, SQL
+-->
 
-## Contact
-- hei.njaina.2@gmail.com
+## E-mail address
+<div>
+hei.njaina.2@gmail.com
+</div>
 
-
-
-<h3 align="left">Connect with me:</h3>
+<div>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://fb.com/njaina.sandratra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="njaina.sandratra" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<div>
+<h3 align="left">Languages and Tools</h3>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -86,7 +90,9 @@ I'm 'Njaina, a 20 years old web developer from Madagascar.
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 </p>
+</div>
 
+<div>
 <p>
 <img align="center" width="900" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=njaina&show_icons=true&locale=en&layout=compact" alt="njaina" />
 <br>
@@ -98,6 +104,7 @@ I'm 'Njaina, a 20 years old web developer from Madagascar.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=njaina&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
 <br>
 </p>
+</div>
 
 <!-- Visitor -->
 <p align="right">
