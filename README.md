@@ -94,10 +94,11 @@ hei.njaina.2@gmail.com
 
 <div>
 <p>
-<img align="center" width="900" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=njaina&show_icons=true&locale=en&layout=compact" alt="njaina" />
+<img align="center" width="1100" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=njaina&show_icons=true&locale=en&layout=compact" alt="njaina" />
 <br>
 </p>
-<p>&nbsp;<img align="center" width="900" height="200" src="https://github-readme-stats.vercel.app/api?username=njaina&show_icons=true&locale=en" alt="njaina" />
+<p><!---&nbsp;--->
+<img align="center" width="1100" height="200" src="https://github-readme-stats.vercel.app/api?username=njaina&show_icons=true&locale=en" alt="njaina" />
 <br>
 </p>
 <p align="center"> 
