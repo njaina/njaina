@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 - 💽 PostgreSQL, SQL
 -->
 
-## E-mail address
-<div>
-hei.njaina.2@gmail.com
-</div>
+
+
+<h2>Address</h2> hei.njaina.2@gmail.com
+
 
 <div>
 <h3 align="left">Other social media</h3>
