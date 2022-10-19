@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
 </h1>
-<h3 align="center" >I'm a junior developper</h3>
+<h3 align="center" >I'm an entry-level developper</h3>
 <div align="center">
 <img src="https://github.com/njaina/njaina/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
