@@ -109,7 +109,6 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-< Visitor>
 <p align="right">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=njaina&repo=njaina&countColor=%2308E8FF"/>
 </p>
