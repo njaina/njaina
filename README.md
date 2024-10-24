@@ -1,108 +1,62 @@
 <h3 align="center"> Hi there 👋, I'm 'Njaina Sandratra </h3>
 
-<!--
-**njaina/njaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
-<!--<img src="https://user-images.githubusercontent.com/98956159/193202853-04af6de6-da62-49bf-a8d9-dd76cbd971eb.jpg">-->
 <img src="https://github.com/njaina/njaina/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
 
 
-  <!--<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />-->
-</h1>
-<h3 align="center" >I'm an entry-level in the world of computer</h3>
-<div align="center">
-<img src="https://github.com/njaina/njaina/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</br>
+<div align="left">
+
+<img src="https://img.shields.io/badge/Email-%23E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; margin-left: 10px;" />
+<span>hei.njaina.2@gmail.com</span>
 </div>
-
-
-<!---## Skills
-- 👨‍💻 TypeScript, JavaScript, Java
-- ⚙️ React, Vue
-- 👁️ SASS, CSS
-- 💽 PostgreSQL, SQL
--->
-
-
-
-<h2>Address</h2>
-<strong> hei.njaina.2@gmail.com </strong>
  
 
 <div>
 <h3 align="left">Other social media</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/njaina-rakotonirina-898248253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-  
-<a href="https://fb.com/njaina.sandratra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="njaina.sandratra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/njaina-rakotonirina-898248253/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; margin-left: 10px;" /></a>
+<a href="https://fb.com/njaina.sandratra" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="vertical-align: middle; margin-left: 10px;" /></a>
 </p>
 </div>
 
 <div>
 <h3 align="left">Languages and Tools</h3>
 <p align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<!--
-<a href="https://mochajs.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-</a>
---->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<!---
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a>
---->
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-</p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
 <div>
+<p align="center"  width="1200" height="200">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=njaina&theme=transparent&layout=pie" alt="njaina" />
+<br>
+</p>
+
 <p>
-<img align="center" width="1200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=njaina&show_icons=true&locale=en&layout=compact" alt="njaina" />
+<img align="center" width="1200" height="200" src="https://github-readme-stats.vercel.app/api?username=njaina&show_icons=true&theme=transparent" alt="njaina" />
 <br>
 </p>
-<p><!---&nbsp;--->
-<img align="center" width="1200" height="200" src="https://github-readme-stats.vercel.app/api?username=njaina&show_icons=true&locale=en" alt="njaina" />
-<br>
-</p>
+
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=njaina&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
 <br>
