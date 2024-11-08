@@ -1,15 +1,20 @@
 <h3 align="center"> Hi there 👋, I'm 'Njaina Sandratra </h3>
 
-<h1 align="center">
+<div align="center">
 <img src="https://github.com/njaina/njaina/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
+</br>
 
+[![An image of @njaina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/njaina)](https://holopin.io/@njaina)
 
-<picture>
+<div align="center">
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tokyRT/tokyRT/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 </br>
 <div align="left">
